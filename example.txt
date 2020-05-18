@@ -1,3 +1,7 @@
 My new name add in repo
 
+<<<<<<< HEAD
 added new line for master banch
+=======
+new line added for thirsty branch
+>>>>>>> thirsty
